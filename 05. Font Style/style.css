@@ -1,0 +1,45 @@
+#title {
+  color: #0000FF;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 30px;
+}
+
+.big-size-font {
+  font-size: 50px;
+}
+
+.small-size-font {
+  font-size: 10px;
+}
+
+.medium-size-font {
+  font-size: 20px;
+}
+
+h1 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 100px;
+}
+
+.bold-font {
+  font-weight: bold;
+}
+
+a {
+  font-style: italic;
+}
+
+.pink {
+  color: rgb(255,192,203);
+}
+
+.yellow {
+  color: yellow;
+}
+
+.big-size-font {
+  font-size: 60px;
+  color: green;
+}

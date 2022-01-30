@@ -1,0 +1,19 @@
+#profile {
+  border-width: 5px;
+  border-color: black;
+  border-style: solid;
+  text-align: center;
+}
+
+.profile-detail {
+  font-weight: bold;
+  color: #7bb28a;
+}
+
+p {
+  font-size: 20px;
+}
+
+#important {
+  background-color: yellow;
+}
