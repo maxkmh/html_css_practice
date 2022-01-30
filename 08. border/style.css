@@ -1,0 +1,29 @@
+p {
+  border: 5px solid red;
+}
+
+span {
+  border-bottom: 3px solid black;
+  padding-bottom: 5px;
+  
+}
+
+blockquote {
+  border-top: 4px double red;
+  border-right: 2px solid #666666;
+  border-bottom: 6px dashed darkviolet;
+  border-left: 1px dotted #00ee44;
+}
+
+div {
+  margin-left:20px;
+  border-left: 2px solid black;
+  padding-left: 20px
+}
+
+#sector {
+  margin-top: 20px;
+  border-top: 10px solid skyblue;
+  border-left: 0px;
+  margin-left:0px;
+}

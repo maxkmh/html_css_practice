@@ -1,0 +1,29 @@
+p.example {
+  width: 273px;
+  height: 90px;
+  margin: 50px 20px 0px 10px;
+  border: 5px solid black;
+  padding: 10px 5px 10px 20px;
+}
+
+div {
+  margin-top: 100px;
+  border: 1px solid black;
+  padding-bottom: 50px;
+  margin-left:100px;
+}
+
+#box {
+  width: 200px;
+  height: 200px;
+  border: 5px solid red;
+  /* margin: 100px 10px 10px 10px; */
+  margin-left: 50px;
+  margin-bottom: 10px;
+  
+}
+
+#sector {
+  margin-top: 10px
+  
+}
