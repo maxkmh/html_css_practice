@@ -1,0 +1,25 @@
+* {
+  box-sizing:border-box;
+}
+
+.first {
+  width: 300px;
+  margin-bottom: 20px;
+}
+
+.second {
+  width: 500px;
+  margin-bottom: 20px;
+  padding: 50px;
+  border-width: 10px;
+}
+
+div {
+  background-color: greenyellow;
+}
+
+.third {
+  width:300px;
+  padding: 100px;
+  margin-top: 50px;
+}
