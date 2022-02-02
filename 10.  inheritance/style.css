@@ -1,0 +1,26 @@
+body {
+  color: red;
+  font-size: 30px;
+}
+
+blockquote {
+  color: black;
+}
+
+.javascript {
+  color: blue;
+  font-weight: bold;
+}
+
+.what-is-blockquote, span {
+  color: green;
+}
+
+p, span, .javascript {
+  font-size: 10px;
+}
+
+tag, .haha, #hoho{
+  font-size : 50px;
+  color : blueviolet;
+}
